@@ -8,3 +8,4 @@
 /public
 composer.lock
 /var/cache/
+_private/
